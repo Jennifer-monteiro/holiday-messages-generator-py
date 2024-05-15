@@ -21,4 +21,4 @@ Each holiday has its own text file containing a collection of messages. Make sur
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request.
 
 This project is licensed under the [MIT License](LICENSE).
-Copyright (c) 2024 Example Organization
+Copyright (c) 2024 JMC
